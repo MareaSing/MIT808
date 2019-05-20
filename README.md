@@ -11,3 +11,7 @@ Specifically, the scope of this project is two-fold, utilizing self-organising m
 2.  Identify across time,  which of the countries are most similar,  and analyse the cross-border transmission of financial crises (that is, whether they cluster together on themap when a crisis occurs in any one of them).  (This analysis will use an unsupervised SOM.)
 
 In addition, this will produce a unique visual representation of financial crises in two-dimensional space that might assist in furthering the understanding of intra- and cross-border transmission mechanisms.
+
+# Documentation 
+The project proposal contains more information on the scope of this project and details the methodology used. 
+
